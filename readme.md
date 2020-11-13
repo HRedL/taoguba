@@ -6,3 +6,11 @@
 
 3.#访问主页,"https://www.taoguba.com.cn/blog/"+user_id
 
+爬虫使用方法
+
+1.stock里存储的是股票的相关“代码”，往这里面填对应的代码
+
+2.登录一下淘股吧，更改下代码中的cookies
+
+3.scrapy crawl taoguba（没安scrapy框架，需要安一下）
+

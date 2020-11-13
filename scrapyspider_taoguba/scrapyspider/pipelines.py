@@ -15,13 +15,10 @@ class ScrapyspiderPipeline(object):
         # 获取游标
         cur = my_sql.cursor()
         try:
-            log.msg("这里这里121111111111111111111111111111111111111111111111111111111111111111111111111111111111111")
             if isinstance(item, Review):
-                log.msg("这里这里2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222")
-                cur.execute("INSERT INTO review(content,user_name,subject,action_date,user_id,new_reply_id,new_topic_id,zan_num,stock_attr,view_num,total_fans_num) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)",
+                cur.execute("INSERT INTO review(content,user_name,subject,action_date,user_id,new_reply_id,new_topic_id,zan_num,stock_attr,view_num,total_fans_num,sid) VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)",
                             [item['content'],item['userName'],item['subject'],item['actionDate'],item['userId'],item['newReplyId'],item['newTopicId'],
-                             item['zanNum'],item['stockAttr'],item['viewNum'],item['totalFansNum']])
-                log.msg("这里这里2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222")
+                             item['zanNum'],item['stockAttr'],item['viewNum'],item['totalFansNum'],item['sid']])
 
                 # 提交
                 my_sql.commit()

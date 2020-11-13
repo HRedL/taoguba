@@ -20,5 +20,6 @@ class Review(scrapy.Item):
     stockAttr = scrapy.Field()
     viewNum = scrapy.Field()
     totalFansNum= scrapy.Field()
+    sid = scrapy.Field()
 
 
