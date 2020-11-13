@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c87beb5-2866-4bbd-b41d-5c5d176b4145" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fodhg6lNYi4ScrJfUGIw6Pq4Iv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scrapyspider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\scrapyspider_taoguba\scrapyspider" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TripadvisroSpider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="scrapyspider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scrapyspider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scrapyspider/spiders/TripadvisroSpider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.TripadvisroSpider" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c87beb5-2866-4bbd-b41d-5c5d176b4145" name="Default Changelist" comment="" />
+      <created>1596888500102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596888500102</updated>
+      <workItem from="1596888513929" duration="1304000" />
+      <workItem from="1596935545977" duration="23009000" />
+      <workItem from="1596987588286" duration="175000" />
+      <workItem from="1598605148739" duration="719000" />
+      <workItem from="1598617868953" duration="12514000" />
+      <workItem from="1598699902457" duration="13096000" />
+      <workItem from="1598790997397" duration="2549000" />
+      <workItem from="1598836787001" duration="617000" />
+      <workItem from="1598853369750" duration="2334000" />
+      <workItem from="1598886234501" duration="1218000" />
+      <workItem from="1598959740709" duration="5706000" />
+      <workItem from="1599036296274" duration="2831000" />
+      <workItem from="1599056913258" duration="80000" />
+      <workItem from="1599133989665" duration="8144000" />
+      <workItem from="1599199811677" duration="2360000" />
+      <workItem from="1603122162690" duration="16000" />
+      <workItem from="1603623979253" duration="3227000" />
+      <workItem from="1603771650055" duration="66000" />
+      <workItem from="1604663470572" duration="1954000" />
+      <workItem from="1605233218339" duration="5773000" />
+      <workItem from="1605271652166" duration="3131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="23" key="#SQL_Dialects" timestamp="1596943416587">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="233" y="23" key="#SQL_Dialects/0.0.1280.720@0.0.1280.720" timestamp="1596943416587" />
+    <state x="487" y="138" key="FileChooserDialogImpl" timestamp="1605272678599">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="487" y="138" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1605272678599" />
+    <state width="1237" height="142" key="GridCell.Tab.0.bottom" timestamp="1596969702543">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1596969702543" />
+    <state width="1237" height="142" key="GridCell.Tab.0.center" timestamp="1596969702542">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1596969702542" />
+    <state width="1237" height="142" key="GridCell.Tab.0.left" timestamp="1596969702542">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1596969702542" />
+    <state width="1237" height="142" key="GridCell.Tab.0.right" timestamp="1596969702543">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="142" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1596969702543" />
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1605271772875">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1605271772875" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/scrapyspider$TripadvisroSpider.coverage" NAME="TripadvisroSpider Coverage Results" MODIFIED="1596944651289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/scrapyspider/spiders" />
+  </component>
+</project>
