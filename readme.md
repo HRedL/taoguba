@@ -14,3 +14,10 @@
 
 3.scrapy crawl taoguba（没安scrapy框架，需要安一下）
 
+
+
+
+
+
+
+cookies需要单拿出来那玩意第一次见，改吐了
